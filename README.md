@@ -1,6 +1,8 @@
 # Snake by Ásgeir Úlfarsson #
 This is the first try of making a simple game in [Phaser](https://phaser.io/ "Phaser").
 
+Playable version of the game is hosted [here](https://snake.urmull.com/).
+
 I followed partially (mainly the game logic, how snake is stored and drawn) [this tutorial](https://tutorialzine.com/2015/06/making-your-first-html5-game-with-phaser "tutorial") how to make snake in Phaser 2 but since I am using Phaser 3 and decided to also use [TypeScript](https://www.typescriptlang.org/ "TypeScript") I had to modify it a bit.
 
 I also used [Phaser 3 TypeScriptProject Template](https://github.com/photonstorm/phaser3-typescript-project-template "Template") to make the setup cleaner for me.

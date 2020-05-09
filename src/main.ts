@@ -496,7 +496,7 @@ export class Gameover extends Phaser.Scene
             h = new Array<Highscore>();
             for(let i = 0; i < 10; i++)
             {
-                h[i] = new Highscore('ÁSG', 10-i);
+                h[i] = new Highscore('   ', 0);
             }
             this.saveHighscore(h);
         }
